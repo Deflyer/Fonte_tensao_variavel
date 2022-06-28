@@ -8,4 +8,6 @@ Trabalho do projeto do professor Simões
 * **Diodo Zenner**: Diodo Zenner de 13V (R$ ) ;
 * **Transistor**: Transistor NPN BC337 (R$ ) ;
 * **Diodo**: Diodo 1N4007 (R$ ) ;
-* **Resistores**: Resistores de 680, 4,7k, e 1k (R$ ) ; 
+* **Resistores**: Resistores de 680, 4,7k, e 1k (R$ ) .
+
+
