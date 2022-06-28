@@ -10,4 +10,5 @@ Trabalho do projeto do professor Simões
 * **Diodo**: Diodo 1N4007 (R$ ) ;
 * **Resistores**: Resistores de 680, 4,7k, e 1k (R$ ) .
 
-
+### Representação do circuito da fonte no Falstad:
+<https://github.com/Deflyer/Fonte_tensao_variavel/blob/main/teste_final_espero%20(1).txt>
