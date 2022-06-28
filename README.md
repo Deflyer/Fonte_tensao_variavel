@@ -11,8 +11,7 @@ Trabalho do projeto do professor Simões
 * **Resistores**: Resistores de 680, 4,7k, e 1k (R$ ) .
 
 ### Representação do circuito da fonte no Falstad:
-<https://github.com/Deflyer/Fonte_tensao_variavel/blob/main/image.png>
-
-![image](image.png)
-
 <img src="./imagens_simulação/image.png">
+
+| Eu | Aprendi | a fazer | tabela|
+| apenas| sucesso | tcc em | readme |
