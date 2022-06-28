@@ -12,3 +12,5 @@ Trabalho do projeto do professor Simões
 
 ### Representação do circuito da fonte no Falstad:
 <https://github.com/Deflyer/Fonte_tensao_variavel/blob/main/image.png>
+
+![image](image.png)
