@@ -14,4 +14,5 @@ Trabalho do projeto do professor Simões
 <img src="./imagens_simulação/image.png">
 
 | Eu | Aprendi | a fazer | tabela|
+|---;|----;|-----;|-----;|
 | apenas| sucesso | tcc em | readme |
