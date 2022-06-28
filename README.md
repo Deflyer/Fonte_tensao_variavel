@@ -15,4 +15,4 @@ Trabalho do projeto do professor Simões
 
 ![image](image.png)
 
-<img src="./imagens_simulação/.png">
+<img src="./imagens_simulação/image.png">
