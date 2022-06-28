@@ -14,3 +14,5 @@ Trabalho do projeto do professor Simões
 <https://github.com/Deflyer/Fonte_tensao_variavel/blob/main/image.png>
 
 ![image](image.png)
+
+<img src="./imagens_simulação/.png">
