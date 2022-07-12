@@ -8,7 +8,10 @@ Trabalho do projeto do professor Simões
 * **Diodo Zenner**: Diodo Zenner de 13V (R$ 0,48) ;
 * **Transistor**: Transistor NPN BC337 (R$ 0,69) ;
 * **Diodo**: Diodo 1N4007 (10 * R$ 0,20 = R$ 2,00) ;
-* **Resistores**: Resistores de 680 (10 * R$ 0,07 = R$ 0,70), 4,7k (10 * R$ 0,07 = R$ 0,70), e 1k (10 * R$ 0,07 = R$ 0,70).
+* **Resistores**:
+&emsp;* 680 Ohms (10 * R$ 0,07 = R$ 0,70),
+&emsp;* 1k Ohms (10 * R$ 0,07 = R$ 0,70),
+&emsp;* 4,7k Ohms (10 * R$ 0,07 = R$ 0,70)
 
 ### Representação do circuito da fonte no Falstad:
 <img src="./imagens_simulação/image.png">
