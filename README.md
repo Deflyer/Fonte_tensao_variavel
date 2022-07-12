@@ -13,7 +13,7 @@ Trabalho do projeto do professor Simões
     * **1k Ohms**: (10 * R$ 0,07 = R$ 0,70),
     * **4,7k Ohms**: (10 * R$ 0,07 = R$ 0,70).
 
-Total: R$ 13,32
+### **Total**: R$ 13,32
 
 ### Representação do circuito da fonte no Falstad:
 <img src="./imagens_simulação/image.png">
