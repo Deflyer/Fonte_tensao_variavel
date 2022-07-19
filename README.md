@@ -99,6 +99,8 @@ Como a gente não é muito confiante em nossos cálculo e foi o capacitor que a 
 
 # Link do vídeo
 
+[Vídeo da fonte](https://youtu.be/31_k6nES3qo)
+
 # Alunos
 
 Artur De Vlieger Lima
