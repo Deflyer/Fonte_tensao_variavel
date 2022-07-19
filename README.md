@@ -16,6 +16,11 @@ Trabalho do projeto do professor Simões
 ### **Total**: R$ 13,32
 
 ### Etapas de construção do circuito:
+
+Planejávamos fazer um projto que cumprisse as seguintes etapas:
+
+<img src="./imagens_simulação/planejamento.png">
+
 Primeiramente, tomando como base as aulas do Simões e os projetos de nosso veteranos, chegamos nesse estado do circuito:
 <img src="./imagens_simulação/image.png">
 Agora faltava descobrir as especificações de cada um dos componentes.
@@ -28,13 +33,13 @@ O transformador tem o papel de reduzir a tensão que entrará no circuito por me
 
 Para esse projeto, nós usamos um que o professor Simões possuía que era capaz de gerar uma saída de 24 V a partir de uma entrada de 110V.
 
-Agora, a ponte de diodos:
+Agora a ponte de diodos:
 
 <img src="./imagens_simulação/ponte_diodo.png">
 
 A ponte de diodos tem a função de retificar a tensão. Como a tomada possui corrente alternada, a DDP fica alternando entre positiva e negativa, mas por meio da ponte de diodos, conseguimos fazer com que ela seja sempre positiva.
 
-Agora, o capacitor:
+Agora o capacitor:
 
 <img src="./imagens_simulação/capacitor.png">
 
@@ -42,5 +47,8 @@ O capacitor funciona como uma caixa d'água, ele armazena carga quando entra cor
 
 Agora o Diodo Zenner:
 
-<img src="./imagens_simulação/capacitor.png">
+<img src="./imagens_simulação/zenner.png">
 
+O diodo Zenner tem a função de regular a tensão máxima. Ele só permite a passagem de corrente quando esta atinge sua tensão nominal e ele barra a passagem de uma tensão maior que a nominal. Assim, por meio dele, conseguimos retificar perfeitamene a tensão que sobou do capacitor(ripple). Nesse projeto utilizamos um zenner de 13V para ter uma margem de erro em relação aos 12V que desejamos.
+
+Agora o potenciômetro:
