@@ -73,7 +73,11 @@ E assim, chegamos no seguinte circuito
 
 # Imagem esquemático da PCB
 
+<img src="./imagens_simulação/eagle.jfif">
+
 # Imagem PCB no programa Proteus
+
+<img src="./imagens_simulação/proteus.jfif">
 
 # Link do vídeo
 
