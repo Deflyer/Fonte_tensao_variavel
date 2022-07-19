@@ -71,7 +71,7 @@ E assim, chegamos no seguinte circuito
 
 # Link do Falstad
 
-https://tinyurl.com/2ydd5g95
+[Falstad](https://www.google.com)
 
 # Imagem esquemático da PCB
 
