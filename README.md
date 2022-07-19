@@ -15,5 +15,6 @@ Trabalho do projeto do professor Simões
 
 ### **Total**: R$ 13,32
 
-### Representação do circuito da fonte no Falstad:
+### Etapas de construção do circuito:
+Primeiramente, tomando como base as aulas do Simões e nos projetos de nosso veteranos, chegamos nesse estado do circuito:
 <img src="./imagens_simulação/image.png">
