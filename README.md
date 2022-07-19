@@ -69,7 +69,7 @@ E assim, chegamos no seguinte circuito
 
 # Cálculos
 
-Como queremos um Ripple pequeno(10%), podemos usar a fórmula simplificada C = i / (f * v)
+Como queremos um Ripple pequeno(10%), podemos usar a fórmula simplificada C = i / (f * v) * ripple
 
 Com base no simulador Falstad, encontramos a tensão após a ponte de diodos de 24.186V 
 
