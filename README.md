@@ -61,7 +61,11 @@ Agora o transistor:
 
 <img src="./imagens_simulação/transistor.png">
 
-O transistor foi conectado de uma maneira"errada", de tal forma que ele só permite a passagem de corrente quando a diferença ddp entre a saída e o potenciômetro for de pelo menos 0,7V. Por meio dele, nós conseguimos fazer com que a alteração da ddp no potenciômetro afete também a saída .
+O transistor foi conectado de uma maneira"errada", de tal forma que ele só permite a passagem de corrente quando a diferença ddp entre a saída e o potenciômetro for de pelo menos 0,7V. Por meio dele, nós conseguimos fazer com que a alteração da ddp no potenciômetro afete também a saída.
+
+E assim, chegamos no seguinte circuito
+
+<img src="./imagens_simulação/final.png">
 
 # Cálculos
 
@@ -84,4 +88,4 @@ Gabriel Souza Santos de Almeida
 Lucas Vizzotto de Castro
 
 # Avisos
-Mudamos o valor do resistor de 2.7k para 3.2k por que não achamos o de 2.7.
+Mudamos o valor do resistor de 2.7k para 3.2k por que não achamos o de 2.7k.
