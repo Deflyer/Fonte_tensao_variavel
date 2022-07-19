@@ -16,5 +16,8 @@ Trabalho do projeto do professor Simões
 ### **Total**: R$ 13,32
 
 ### Etapas de construção do circuito:
-Primeiramente, tomando como base as aulas do Simões e nos projetos de nosso veteranos, chegamos nesse estado do circuito:
+Primeiramente, tomando como base as aulas do Simões e os projetos de nosso veteranos, chegamos nesse estado do circuito:
+<img src="./imagens_simulação/image.png">
+Agora faltava descobrir as especificações de cada um dos componentes.
+Primeiramente, o transformador
 <img src="./imagens_simulação/image.png">
