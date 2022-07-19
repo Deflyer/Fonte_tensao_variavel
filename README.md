@@ -19,5 +19,8 @@ Trabalho do projeto do professor Simões
 Primeiramente, tomando como base as aulas do Simões e os projetos de nosso veteranos, chegamos nesse estado do circuito:
 <img src="./imagens_simulação/image.png">
 Agora faltava descobrir as especificações de cada um dos componentes.
-Primeiramente, o transformador
-<img src="./imagens_simulação/image.png">
+Primeiramente, a tomada já estava definida como de 110V, faltando agora o transformador
+<img src="./imagens_simulação/transformador.png">
+Para esse projeto, nós usamos um que o professor Simões possuía que era capaz de gerar uma aída de 24 V.
+Depois, a ponte de diodos
+<img src="./imagens_simulação/ponte_diodo.png">
