@@ -69,6 +69,10 @@ E assim, chegamos no seguinte circuito
 
 # Cálculos
 
+Como queremos um Ripple pequeno(10%), podemos usar a fórmula simplificada C = i / (f * v)
+
+Com base no simulador Falstad, encontramos a tensão após a ponte de diodos de V <img src="./imagens_simulação/final.png">e a corrente depois do capacitor de A<img src="./imagens_simulação/final.png">. Agora, como já temos a fonte como corrente alternada de 60Hz, temos que f será 2 * 60 = 120Hz, só falta é usar a fórmula.
+
 # Link do Falstad
 
 [Falstad](https://tinyurl.com/2ydd5g95)
