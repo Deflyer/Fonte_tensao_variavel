@@ -36,5 +36,11 @@ A ponte de diodos tem a função de retificar a tensão. Como a tomada possui co
 
 Agora, o capacitor:
 
-<img src="./imagens_simulação/transformador.png">
+<img src="./imagens_simulação/capacitor.png">
+
+O capacitor funciona como uma caixa d'água, ele armazena carga quando entra corrente nele e libera quando não estiver entrando, assim, por meio dele, conseguimos que a senoidal da tensão se torne mais linear, pois quando a tensão estaria em processo de queda, ele fornece energia esstabilizando a tensão para o resto do circuito. Mesmo assim, ainda sobram algumas pequenas "ondinhas", e nesse projeto queremos que a tensão fique estável. Queríamos um Ripple de cerca de 10%, que com os nossos cálculos precisava de um capacitor de ...uF, e por isso escolhemos um de 470uF que é o disponível comercialmente próximo a esse valor.
+
+Agora o Diodo Zenner:
+
+<img src="./imagens_simulação/capacitor.png">
 
