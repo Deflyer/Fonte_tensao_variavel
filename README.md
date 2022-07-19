@@ -81,6 +81,10 @@ e a corrente depois do capacitor de 49.551mA
 
 Agora, como já temos a fonte como corrente alternada de 60Hz, temos que f será 2 * 60 = 120Hz, só falta é usar a fórmula.
 
+<img src="./imagens_simulação/corrente.png">
+
+Como a gente não é muito confiante em nossos cálculo e foi o capacitor que a gente achou, nós usamos um de 470uF, o que não afeta muito o circuito sem ser deixá-lo mais caro.
+
 # Link do Falstad
 
 [Falstad](https://tinyurl.com/2ydd5g95)
