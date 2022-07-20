@@ -14,7 +14,7 @@ Trabalho do projeto do professor Simões
     * **4,7k Ohms**: (10 * R$ 0,07 = R$ 0,70).
 
 ### **Total**: R$ 13,32
-### Componentes comprados na loja Ca And Ma no dia 22/06/2022
+Componentes comprados na loja Ca And Ma no dia 22/06/2022
 
 ### Etapas de construção do circuito:
 
