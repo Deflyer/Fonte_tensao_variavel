@@ -108,7 +108,7 @@ Artur De Vlieger Lima
 
 Calebe Damas Nogueira
 
-Gabriel Souza Santos de Almeida
+Gabriel Sousa Santos de Almeida
 
 Lucas Vizzotto de Castro
 
